@@ -1,0 +1,14 @@
+A Jurrasic park contains a dinosaur museum and a park for safari riding.  
+The passenger enters, wanders around the mueseum and gets into line to take ride
+in a safari car by making a request.
+A car rides around the park for a random amount of time, after the ride passenger
+roams around the museum for a random amount of time and then again joins in the 
+queue to take a ride by making a request.
+
+*******If there is no car, then the passenger has to wait till one gets free*******
+*******If there is no waiting passenger, then the car waits*******
+A passenger completes his visit only after 'k'times of safari
+
+
+
+***** For complete description go through PS.pdf which is the given Problem statement******
